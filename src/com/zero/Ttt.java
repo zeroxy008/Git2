@@ -9,4 +9,6 @@ package com.zero;
  * @Date: 2020/11/19 20:46
  */
 public class Ttt {
+    private int age;
+    private String name;
 }
