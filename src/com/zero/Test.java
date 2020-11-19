@@ -11,5 +11,6 @@ package com.zero;
 public class Test {
     public static void main(String[] args) {
         System.out.println("git测试");
+        System.out.println("在传一次");
     }
 }
